@@ -1,4 +1,4 @@
-In this repository, the lightcurves of the 13 SGRBs for which it was possible to fit the rest frame lightcurve using the magnetar models are presented.
+In this repository, the lightcurves of the 13 SGRBs for which it was possible to fit the rest frame lightcurve using the magnetar model are presented.
 
 The ones with a red fit are the ones for which a steep decay component is present, preceeding the afterglow.
 
