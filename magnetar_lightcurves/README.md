@@ -4,5 +4,6 @@ The ones with a red fit are the ones for which a steep decay component is presen
 
 The ones with a green fit are the ones for which only the aferglow componet is present.
 
-The best fit parameters are published in the paper Guglielmi et. al 2024
-The data used to do this fits can be found in https://drive.google.com/drive/folders/1bBxPvkCD1KCPBd8iyBz3X30h8N8G6Ira?usp=share_link
+The fitting procedure and best fit parameters are presented in a dedicated paper (Guglielmi et al. , submitted, Tab.3).
+
+The data used to do these fits can be found in https://drive.google.com/drive/folders/1bBxPvkCD1KCPBd8iyBz3X30h8N8G6Ira?usp=share_link
