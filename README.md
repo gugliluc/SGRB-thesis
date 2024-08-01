@@ -1,5 +1,12 @@
 In this repository, the lightcurves obtained from the analysis performed in the paper Guglielmi et al. (submitted) are reported to allow the reader to inspect them.
-To facilitate the reader, these are devided in folders. The content of each folder is briefly described in the following.
+To facilitate the reader, these are devided in folders.
+
+The data used to do these fits can be found in https://drive.google.com/drive/folders/1bBxPvkCD1KCPBd8iyBz3X30h8N8G6Ira?usp=share_link.
+
+For each SGRB in the sample, the XRT 0.3-10 keV unabsorbed afterglow flux lightcurve was retrieved from the publicly availableSwift XRT Repository on the UK Swift Science Data Center website (Evans et al. 2007, 2009)
+
+The content of each folder is briefly described in the following.
+
 
 
 %%%% bpl_lightcurve directory
@@ -25,4 +32,4 @@ The ones with a green fit are the ones for which only the aferglow componet is p
 
 The fitting procedure and best fit parameters are presented in a dedicated paper (Guglielmi et al. , submitted, Tab.3).
 
-The data used to do these fits can be found in https://drive.google.com/drive/folders/1bBxPvkCD1KCPBd8iyBz3X30h8N8G6Ira?usp=share_link
+
