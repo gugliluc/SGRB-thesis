@@ -3,7 +3,7 @@ To facilitate the reader, these are devided in folders.
 
 The data used to do these fits can be found in https://drive.google.com/drive/folders/1bBxPvkCD1KCPBd8iyBz3X30h8N8G6Ira?usp=share_link.
 
-For each SGRB in the sample, the XRT 0.3-10 keV unabsorbed afterglow flux lightcurve was retrieved from the publicly availableSwift XRT Repository on the UK Swift Science Data Center website (Evans et al. 2007, 2009)
+For each SGRB in the sample, the XRT 0.3-10 keV unabsorbed afterglow flux lightcurve was retrieved from the publicly availableSwift XRT Repository on the UK Swift Science Data Center website (Evans et al. 2007, 2009).
 
 The content of each folder is briefly described in the following.
 
